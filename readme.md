@@ -1,2 +1,2 @@
 ## Usługi pielęgniarskie Kępno
-# This project concern creating website for nursery service.
+ This project concern creating website for nursery service.
